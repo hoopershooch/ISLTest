@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Questions>
+<Question number="1" text="Какие ингридиенты небходимы для приготовления оладушек?">
+    <Answer number="1" text="Мука" right="true"/>
+    <Answer number="2" text="Перец" right="false" />
+    <Answer number="3" text="Сахар" right="true" /> 
+    <Answer number="4" text="Соль" right="true" />
+    <Answer number="5" text="Шоколад" right="false" />
+</Question> 
+<Question number="2" text="Какие грибы можно съесть неоднократно?">
+    <Answer number="1" text="Белый гриб" right="true"/>
+    <Answer number="2" text="Подосиновик" right="true" /> 
+    <Answer number="3" text="Лисичка" right="true"/>
+    <Answer number="4" text="Бледная поганка" right="false" /> 
+</Question> 
+<Question number="3" text="Что использовал в качестве топлива первый дизельный двигатель?">
+    <Answer number="1" text="Угольная пыль" right="true"/>
+    <Answer number="2" text="Солярка" right="false" /> 
+    <Answer number="3" text="Этиловый спирт" right="false" />
+    <Answer number="4" text="Рапсовое масло" right="false" />
+</Question> 
+<Question number="4" text="Какое разрешение имеет картинка формата FullHD?">
+    <Answer number="1" text="1920*1080" right="true"/>
+    <Answer number="2" text="1280*720" right="false" /> 
+    <Answer number="3" text="3840*2160" right="false" />
+</Question> 
+<Question number="5" text="Какова длина марафонской дистанции?">
+    <Answer number="1" text="40 км" right="false" />
+    <Answer number="2" text="42 км 195 м" right="true"/>
+    <Answer number="3" text="42 км" right="false" /> 
+</Question> 
+</Questions> 

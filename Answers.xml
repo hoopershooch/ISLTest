@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Questions>
+
+<Question number="1" success="true" text="Какие ингридиенты небходимы для приготовления оладушек?">
+<Answer number="1" text="Мука"/>
+
+<Answer number="3" text="Сахар"/>
+
+<Answer number="4" text="Соль"/>
+</Question>
+
+<Question number="2" success="true" text="Какие грибы можно съесть неоднократно?">
+<Answer number="1" text="Белый гриб"/>
+
+<Answer number="2" text="Подосиновик"/>
+
+<Answer number="3" text="Лисичка"/>
+</Question>
+
+<Question number="3" success="true" text="Что использовал в качестве топлива первый дизельный двигатель?">
+<Answer number="1" text="Угольная пыль"/>
+</Question>
+
+<Question number="4" success="true" text="Какое разрешение имеет картинка формата FullHD?">
+<Answer number="1" text="1920*1080"/>
+</Question>
+
+<Question number="5" success="true" text="Какова длина марафонской дистанции?">
+<Answer number="2" text="42 км 195 м"/>
+</Question>
+</Questions>
